@@ -50,7 +50,7 @@ Temperature < 20?
    ├── Yes → "Too cold!"
    │
    └── No → "Perfect temperature!"
-SCRATCH WEATHER DATA ANALYSER
+SCRATCH WEATHER DATA ANALYSER.png
 
  🔗 Scratch Project
 
