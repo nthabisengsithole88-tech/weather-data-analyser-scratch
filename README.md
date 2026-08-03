@@ -52,7 +52,7 @@ Temperature < 20?
    └── No → "Perfect temperature!"
 ## 📷 Screenshot
 ```markdown
-![Scratch Weather Data Analyser](SCRATCH WEATHER DATA ANALYSER.png)
+![Scratch Weather Data Analyser](SCRATCH%20WEATHER%20DATA%20ANALYSER.png)
 
  🔗 Scratch Project
 
