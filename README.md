@@ -50,7 +50,8 @@ Temperature < 20?
    ├── Yes → "Too cold!"
    │
    └── No → "Perfect temperature!"
-## 
+```
+## Screenshot
 
 ![SCRATCH WEATHER DATA ANALYSER](https://github.com/user-attachments/assets/de9d4704-e1f9-40d8-a676-692d7d062328)
 
